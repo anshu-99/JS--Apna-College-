@@ -28,3 +28,23 @@ console.log(num1!=num2) //true
 console.log(num1!==num2) //true
 console.log(num1>num2) //false
 console.log(num1<num2) //true
+
+// logical operator ||, &&, ! returns boolean and conditional statement
+//&& - both conditions must be true
+if(a%2==0 && b%2==0){
+    console.log("even")
+}else{
+    console.log("odd")
+}
+
+// || - either of the condotion must be true
+
+if(a>=10 || b<=20){
+    console.log("good number")
+}else{
+    console.log("bad number")
+}
+
+
+
+
