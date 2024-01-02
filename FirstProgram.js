@@ -42,3 +42,15 @@ const penProduct={
     isOnGoingDeal:true
 }
 console.log(penProduct);
+
+// profile object
+
+const profilePage={
+    userName:"Virat Kohli",
+    followers:"106M",
+    following:"98",
+    posts:1149,
+    ifFollowing:true,
+    bio:"Carpediem!"
+}
+console.log(profilePage);
