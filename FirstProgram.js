@@ -23,7 +23,7 @@ console.log(result, typeof result);
 console.log(num, typeof num);
 console.log(x, typeof x);
 
-// non-premitive (collections of different ariables in key value papir)
+// non-premitive (collections of different ariables in key value pair)
 let studentData = {
     firstName: "Udbhav",
     secondName: "Ojha",
@@ -36,9 +36,9 @@ console.log(studentData, typeof studentData);
 const penProduct={
     nameOfProduct:"Pen from Peter Parker",
     description:"Parker Jotter standard ball pen",
-    rating:4.3,
-    customerNumber:7002,
-    price:220,
+    rating:3.2,
+    customerNumber:39,
+    price:330,
     isOnGoingDeal:true
 }
 console.log(penProduct);
