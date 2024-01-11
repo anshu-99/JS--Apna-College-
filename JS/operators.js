@@ -45,6 +45,10 @@ if(a>=10 || b<=20){
     console.log("bad number")
 }
 
-
+// if(10=='10'){
+//     console.log("matched")
+// }else{
+//     console.log("Not Matched")
+// }
 
 

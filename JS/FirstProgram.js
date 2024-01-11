@@ -4,9 +4,6 @@ console.log("Hello, World..!!")
 const name="Udbhav Ojha"
 var age=24;
 console.log("Name: ",name,"age: ",age)
- for(let i=1;i<=10;i++){
-    console.log("2 x ",i," =",2*i)
- }
 // let:block scope based, can't re-declared but can be updated
 // var:global scope based, can be re-declared and can be updated
 // const:block scope based, can't re-declared but can't be updated
